@@ -1,0 +1,33 @@
+_repo: The-Little-Vanities-of-Mrs.-Whittaker--A-Novel_35414
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35414-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Winter, John Strange
+    aliases:
+    - Whyte, Violet
+    - Stannard, Henrietta Eliza Vaughan Palmer
+    - Winter, J. S. (John Strange)
+    birthdate: 1856
+    deathdate: 1911
+    gutenberg_agent_id: '6135'
+    url: http://www.gutenberg.org/2009/agents/6135
+    wikipedia: http://en.wikipedia.org/wiki/John_Strange_Winter
+description: ''
+gutenberg_issued: '2011-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35414'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Married women -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'England -- Social life and customs -- Fiction'
+- !lcc 'PR'
+title: 'The Little Vanities of Mrs. Whittaker: A Novel'
+url: http://www.gutenberg.org/ebooks/35414
