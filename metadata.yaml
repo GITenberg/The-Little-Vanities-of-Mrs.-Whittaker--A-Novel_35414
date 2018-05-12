@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6135
     wikipedia: http://en.wikipedia.org/wiki/John_Strange_Winter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35414#The-Little-Vanities-of-Mrs.-Whittaker--A-Novel
 gutenberg_issued: '2011-02-27'
 gutenberg_type: Text
 identifiers:
